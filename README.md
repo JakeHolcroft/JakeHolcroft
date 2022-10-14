@@ -12,11 +12,11 @@ Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am curren
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Node.JS ](https://img.shields.io/badge/node.js-%231572B6.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%231572B6.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 # 🛠️ Portfolio
-Public Projects -
-Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/
-Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/
-iFi audio - Product Setting Calculator - https://ifi-audio.com/home/iphono-calculator/
-
-Private Projects -
-Online Training Academy - Over 1000+ Members
-Bespoke Inventory System - Multiple Warehouse Locations - Features: Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Warehouse Stock
+<strong>Public Projects</strong><br/>
+Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/<br/>
+Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/<br/>
+iFi audio - Product Setting Calculator - https://ifi-audio.com/home/iphono-calculator/<br/>
+<br/>
+<strong>Private Projects</strong><br/>
+Online Training Academy - Over 1000+ Members<br/>
+Bespoke Inventory System - Features: Auth0 login, Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Multiple Warehouse's Stock<br/>
