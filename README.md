@@ -10,3 +10,13 @@ Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am curren
 
 # ✍️ Learning
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Node.JS ](https://img.shields.io/badge/node.js-%231572B6.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%231572B6.svg?style=for-the-badge&logo=jest&logoColor=white)
+
+# 🛠️ Portfolio
+Public Projects -
+Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/
+Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/
+iFi audio - Product Setting Calculator - https://ifi-audio.com/home/iphono-calculator/
+
+Private Projects -
+Online Training Academy - Over 1000+ Members
+Bespoke Inventory System - Multiple Warehouse Locations - Features: Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Warehouse Stock
