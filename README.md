@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jake Holcroft, a passionate front-end developer from the UK.
+Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am currently learning React!
 
 
 ## 🌐 Socials:
