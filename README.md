@@ -12,11 +12,25 @@ Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am curren
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Node.JS ](https://img.shields.io/badge/node.js-%231572B6.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%231572B6.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 # 🛠️ Portfolio
-<strong>Public Projects</strong><br/>
-Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/<br/>
+<strong>Public Projects:</strong><br/>
 Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/<br/>
+<strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, WooCommerce, Stripe API 
+
 iFi audio - Product Setting Calculator - https://ifi-audio.com/home/iphono-calculator/<br/>
+<strong>-Tech:</strong> HTML, CSS, JS, JQuery, Wordpress
+
+iFi audio - Headphone Calculator - https://ifi-audio.com/home/headphone-calculator/<br/>
+<strong>-Tech:</strong> HTML, CSS, JS, PHP, MySQL, Wordpress
+
+iFi audio - Power Supply Calculator - https://ifi-audio.com/home/power-calculator/<br/>
+<strong>-Tech:</strong> HTML, CSS, JS, PHP, MySQL, Wordpress
+
+Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/<br/>
+<strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, JQuery
 <br/>
-<strong>Private Projects</strong><br/>
-Online Training Academy - Over 1000+ Members<br/>
-Bespoke Inventory System - Features: Auth0 login, Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Multiple Warehouse's Stock<br/>
+<strong>Private Projects:</strong><br/>
+Louise Walsh Academy[US/UK - ES - IN - Lite] - Online Training Academy - Over 1000+ Members<br/>
+<strong>-Tech:</strong>Wordpress, WooCommerce, Stripe, HTML, CSS, JS, JQuery
+
+Bespoke Inventory System - Features: Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Multiple Warehouse's Stock<br/>
+<strong>-Tech:</strong> HTML, CSS, JS, React, FontAwesome.JS, Firebase DB
