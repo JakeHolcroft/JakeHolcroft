@@ -13,6 +13,7 @@ Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am curren
 
 # 🛠️ Portfolio
 <strong>Public Projects:</strong><br/>
+<hr>
 Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/<br/>
 <strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, WooCommerce, Stripe API 
 
@@ -30,6 +31,7 @@ Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoin
 <br/>
 
 <strong>Private Projects:</strong><br/>
+<hr>
 Louise Walsh Academy[US/UK - ES - IN - Lite] - Online Training Academy - Over 1000+ Members<br/>
 <strong>-Tech:</strong>Wordpress, WooCommerce, Stripe, HTML, CSS, JS, JQuery
 
