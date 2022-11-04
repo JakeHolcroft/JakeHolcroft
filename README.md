@@ -27,9 +27,6 @@ iFi audio - Headphone Calculator - https://ifi-audio.com/home/headphone-calculat
 <strong>-Tech:</strong> HTML, CSS, JS, PHP, MySQL, Wordpress
 
 
-iFi audio - Power Supply Calculator - https://ifi-audio.com/home/power-calculator/<br/>
-<strong>-Tech:</strong> HTML, CSS, JS, PHP, MySQL, Wordpress
-
 Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/<br/>
 <strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, JQuery
 
