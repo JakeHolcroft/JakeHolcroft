@@ -16,24 +16,29 @@ Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am curren
 <hr>
 Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/<br/>
 <strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, WooCommerce, Stripe API 
-<br/>
+
+
 iFi audio - Product Setting Calculator - https://ifi-audio.com/home/iphono-calculator/<br/>
 <strong>-Tech:</strong> HTML, CSS, JS, JQuery, Wordpress
-<br/>
+
+
 iFi audio - Headphone Calculator - https://ifi-audio.com/home/headphone-calculator/<br/>
 <strong>-Tech:</strong> HTML, CSS, JS, PHP, MySQL, Wordpress
-<br/>
+
+
 iFi audio - Power Supply Calculator - https://ifi-audio.com/home/power-calculator/<br/>
 <strong>-Tech:</strong> HTML, CSS, JS, PHP, MySQL, Wordpress
-<br/>
+
 Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoineryandconstruction.co.uk/<br/>
 <strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, JQuery
-<br/>
-<br/>
+
+
 <strong>Private Projects:</strong><br/>
 <hr>
 Louise Walsh Academy [US/UK - ES - IN - Lite] - Online Training Academy - Over 1000+ Members<br/>
 <strong>-Tech:</strong>Wordpress, WooCommerce, Stripe, HTML, CSS, JS, JQuery
-<br/>
+
+
 Bespoke Inventory System - Features: Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Multiple Warehouse's Stock <br/>
 <strong>-Tech:</strong> HTML, CSS, JS, React, FontAwesome.JS, Firebase DB
+
