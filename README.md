@@ -39,6 +39,8 @@ Dutton Joinery - Brochure Website - Bespoke Wordpress Theme - https://duttonjoin
 Louise Walsh Academy [US/UK - ES - IN - Lite] - Online Training Academy - Over 1000+ Members<br/>
 <strong>-Tech:</strong>Wordpress, WooCommerce, Stripe, HTML, CSS, JS, JQuery
 
+
+
 Bespoke Inventory System - Features: Add/Remove/Edit Products, Add/Remove/Edit Stock, Transfer Stock, View Multiple Warehouse's Stock <br/>
 <strong>-Tech:</strong> HTML, CSS, JS, React, FontAwesome.JS, Firebase DB
 
