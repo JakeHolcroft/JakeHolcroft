@@ -14,6 +14,7 @@ Hi, I'm Jake Holcroft, a passionate front-end developer from the UK. I am curren
 # 🛠️ Portfolio
 <strong>Public Projects:</strong><br/>
 <hr>
+
 Plasma Pen - E-Commerce & Brochure Website - Bespoke Wordpress Theme - https://plasmapenuk.com/<br/>
 <strong>-Tech:</strong> Bespoke Wordpress Theme, HTML, CSS, JS, WooCommerce, Stripe API 
 
